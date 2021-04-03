@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Energetic and passionate college student towards a M.Sc. in Computer Science at the Central University of Rajasthan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaydduc&label=Profile%20views&color=0e75b6&style=flat" alt="ajaydduc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaydduc&label=Profile%20views&color=0e75b6&style=flat" alt="ajaydduc" /> <img src="https://media-exp1.licdn.com/dms/image/C4D2DAQHDGwMdydO-vw/profile-treasury-image-shrink_1280_1280/0/1597562723785?e=1617516000&v=beta&t=bGgsLMgSm28my626lNiCuGSugQuZmezTtTlw18NK9Sk" alt="ajaydduc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaydduc" alt="ajaydduc" /></a> </p>
 
