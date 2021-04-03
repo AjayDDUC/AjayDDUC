@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://drive.google.com/file/d/1XXmgZxCtb4_nVfF1rU_hfl9N1UKWrOnX/view?usp=sharing" alt="Central University of Rajasthan" />
+
 <h1 align="center">Hello 👋, I'm AJAY</h1>
 
 <h3 align="center">Energetic and passionate college student towards a M.Sc. in Computer Science at the Central University of Rajasthan.</h3>
