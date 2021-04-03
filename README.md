@@ -1,5 +1,5 @@
 
-
+<!--
 
 **AjayDDUC/AjayDDUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <h1 align="center">Hello 👋, I'm AJAY</h1>
 
 <h3 align="center">Energetic and passionate college student towards a M.Sc. in Computer Science at the Central University of Rajasthan.</h3>
