@@ -28,10 +28,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-<a href="https://linkedin.com/in/https://wajay-saini-a39b55179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://wajay-saini-a39b55179" height="30" width="40" /></a>
-
-<a href="https://kaggle.com/ajay25299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ajay25299" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/https://wajay-saini-a39b55179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://wajay-saini-a39b55179" height="30" width="40" /></a><a href="https://kaggle.com/ajay25299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ajay25299" height="30" width="40" /></a>
 <a href="https://instagram.com/_252999_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_252999_" height="30" width="40" /></a>
 
 </p>
