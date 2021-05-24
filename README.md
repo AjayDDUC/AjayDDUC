@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋, I'm AJAY</h1>
 
 <h3 align="center">Energetic and passionate college student towards a M.Sc. in Computer Science at the Central University of Rajasthan.</h3>
-<img src="https://media-exp1.licdn.com/dms/image/C4D2DAQHDGwMdydO-vw/profile-treasury-image-shrink_1280_1280/0/1597562723785?e=1617516000&v=beta&t=bGgsLMgSm28my626lNiCuGSugQuZmezTtTlw18NK9Sk" alt="Deen Dayal Upadhyaya College is a constituent colleges of the University of Delhi in India, located at Phase 1, Dwarka Sector-3, Dwarka, New Delhi, Delhi 110078. It is fully funded by Government of Delhi." />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaydduc&label=Profile%20views&color=0e75b6&style=flat" alt="ajaydduc" />  </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaydduc" alt="ajaydduc" /></a> </p>
